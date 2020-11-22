@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <html>
-    <div>        
         <head>
             <meta charset="utf-8">
         </head>
@@ -77,5 +75,4 @@
             your browser does not supoport video tag
             </video>
         </body>
-    </div>
 </html>
