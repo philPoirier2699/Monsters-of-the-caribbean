@@ -4,7 +4,7 @@
             <meta charset="utf-8">
         </head>
         <body>
-            <div>
+<div>
                 <h1 title="Title">Projet d'intégration sur Unreal Engine</h1>
                 <h2>Programmeurs : </h2>
                 <table class="table">
@@ -60,18 +60,16 @@
                     </tr>
                 </table>
 
-                <h2 class="font-weight-bold">Images du jeu :</h2>
+ <h2 class="font-weight-bold">Images du jeu :</h2>
 
-                <img src="MainMenu.png" alt="In game image" width="500" height="500">
-                <img src="GamePreview.png" alt="In game image" width="500" height="500">
-                <img src="Inventory.png" alt="In game image" width="500" height="500">
-                <img src="Dialog.png" alt="In game image" width="500" height="500">
-
-            
-            </div>
+<img src="MainMenu.png" alt="In game image" width="500" height="500">
+<img src="GamePreview.png" alt="In game image" width="500" height="500">
+<img src="Inventory.png" alt="In game image" width="500" height="500">
+<img src="Dialog.png" alt="In game image" width="500" height="500">
+</div>
             <h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
             <video width="480" height="270">
-                <source src="GamePreview.mp4" type="video/mp4">
+                <source src="GamePreview.mp4" type="video/mp4" autoplay>
             your browser does not supoport video tag
             </video>
         </body>
