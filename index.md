@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<html>
+    <div>        
+        <head>
+            <meta charset="utf-8">
+        </head>
+        <body>
+            <div>
+                <h1 title="Title">Projet d'intégration sur Unreal Engine</h1>
+                <h2>Programmeurs : </h2>
+                <table class="table">
+                        <tr>
+                            <th style="text-align: left">NOM :</th>
+                            <th style="text-align: left">COURRIEL :</th>
+                        </tr>
+                        <tr>
+                            <td>Philippe Poirier</td>
+                            <td>Ppoirier2699@gmail.com</td>
+                        </tr>
+                </table>
+                <h2>Description du projet :</h2>
+                <P class="text-justify">
+                    Pour mon projet d'intégration, j'ai décider de faire un jeu sur Unreal Engine en c++.
+                    Il s'agit d'un jeu RPG dans lequel le personnage peut parler a des NPC et obtenir des quêtes,
+                    le joueur doit combattre différents types d'ennemis et compléter les objectifs de quêtes pour progresser dans le jeu.
+                    Le joueur a accès a un inventaire dans lequel il peut storer n'importe quel objects et utiliser les consomables.
+                </P>
+                <h2 class="font-weight-bold">Listes de commandes du jeu :</h2>
+                <table class="table">
+                    <tr>
+                        <th style="text-align: left">BOUTTON :</th>
+                        <th style="text-align: left">FONCTIONALITÉ :</th>
+                    </tr>
+                    <tr>
+                        <td>W/A/S/D</td>
+                        <td>Déplace le personnage</td>
+                    </tr>
+                    <tr>
+                        <td>SHIFT</td>
+                        <td>Active le sprint</td>
+                    </tr>
+                    <tr>
+                        <td>I</td>
+                        <td>Ouvre l'inventaire</td>
+                    </tr>
+                    <tr>
+                        <td>C</td>
+                        <td>Sortir/Ranger l'arme</td>
+                    </tr>
+                    <tr>
+                        <td>CLIC GAUCHE</td>
+                        <td>Attaque si l'arme est sortie</td>
+                    </tr>
+                    <tr>
+                        <td>ESC</td>
+                        <td>Pause le jeu</td>
+                    </tr>
+                    <tr>
+                        <td>Q</td>
+                        <td>Ouvre le livre des quêtes</td>
+                    </tr>
+                </table>
 
-You can use the [editor on GitHub](https://github.com/philPoirier2699/SitePresentationPFI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+                <h2 class="font-weight-bold">Images du jeu :</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                <img src="MainMenu.png" alt="In game image" width="500" height="500">
+                <img src="GamePreview.png" alt="In game image" width="500" height="500">
+                <img src="Inventory.png" alt="In game image" width="500" height="500">
+                <img src="Dialog.png" alt="In game image" width="500" height="500">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philPoirier2699/SitePresentationPFI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+            
+            </div>
+            <h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
+            <video width="480" height="270">
+                <source src="GamePreview.mp4" type="video/mp4">
+            your browser does not supoport video tag
+            </video>
+        </body>
+    </div>
+</html>
