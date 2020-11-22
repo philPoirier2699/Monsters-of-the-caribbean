@@ -62,10 +62,10 @@
 
  <h2 class="font-weight-bold">Images du jeu :</h2>
 
-<img src="MainMenu.png" alt="In game image" width="500" height="500">
-<img src="GamePreview.png" alt="In game image" width="500" height="500">
-<img src="Inventory.png" alt="In game image" width="500" height="500">
-<img src="Dialog.png" alt="In game image" width="500" height="500">
+<img src="MainMenu.png" alt="In game image" width="480" height="270">
+<img src="GamePreview.png" alt="In game image" width="480" height="270">
+<img src="Inventory.png" alt="In game image" width="480" height="270">
+<img src="Dialog.png" alt="In game image" width="480" height="270">
 </div>
 <h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
 <h2 class="font-weight-bold">Lien vers une courte presentation du jeu :</h2>
