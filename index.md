@@ -67,10 +67,9 @@
 <img src="Inventory.png" alt="In game image" width="500" height="500">
 <img src="Dialog.png" alt="In game image" width="500" height="500">
 </div>
-            <h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
-            <video width="480" height="270">
-                <source src="GamePreview.mp4" type="video/mp4" autoplay>
-            your browser does not supoport video tag
-            </video>
-        </body>
+<h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
+<h2 class="font-weight-bold">Lien vers une courte presentation du jeu :</h2>
+<a href="https://youtu.be/dfHOfXC0ykU"> Lien vers la video </a>
+          
+</body>
 </html>
