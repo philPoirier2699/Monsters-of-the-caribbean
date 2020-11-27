@@ -69,7 +69,7 @@
 </div>
 <h2 class="font-weight-bold">Superviseur du projet : Kyle Ross</h2>
 <h2 class="font-weight-bold">Lien vers une courte presentation du jeu :</h2>
-<a href="https://youtu.be/dfHOfXC0ykU"> Lien vers la video </a>
+<a href="https://youtu.be/Tz5w5PU-rig"> Lien vers la video </a>
           
 </body>
 </html>
